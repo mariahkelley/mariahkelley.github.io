@@ -1,23 +1,18 @@
 
-
-
-}
-body{
+	.pink-background {
 	
-	background: rgb(238,174,202);
-background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(218,178,228,1) 36%, rgba(148,187,233,1) 100%);
-}
-
-img{ height:200px; width:30%; }
-.padding-top{
-	padding-top:50px;
-.white-box{
-	background-position: center;
-	background-color: lightgrey;
-}
-.white-box2{
-	background-position: center;
-	background-color: lightgrey;
+		background: rgb(238,174,202);
+	background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(218,178,228,1) 36%, rgba(148,187,233,1) 100%);
+	}
 
 
-}
+	.padding-top{
+		padding-top:50px;}
+	.white-box{
+		background-position: center;
+		background-color: lightgrey;
+	}
+	.white-box2{
+		background-position: center;
+		background-color: lightgrey;
+	}
